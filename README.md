@@ -127,7 +127,7 @@ JRAT uses Discord commands to manage infected clients remotely. Here's the full 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/JRAT.git
+   git clone https://github.com/NullPwntr/JRAT.git
    cd JRAT
    ```
 
