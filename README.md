@@ -13,6 +13,7 @@ It supports encrypted command transmission, data exfiltration, remote shell acce
 
 > ⚠️ **This project was published nearly a year after its initial development. Some features or commands may be outdated or unstable. Expect occasional bugs or compatibility issues, especially on newer systems. Use with caution and test thoroughly before deployment.**
 
+> **Clarification:** The `es.exe` file is the CLI version of the **Everything** search tool. You can download it from [Voidtools' official website](https://www.voidtools.com/downloads/).
 
 ## Commands
 
